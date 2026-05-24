@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "name":"Double Cheese Burger",
+        "price": "$10.00",
+        "image":"burger.png"
+    },
+
+    {
+        "id":2,
+        "name":"Pizza with Extra Cheese",
+        "price":"$12.00",
+        "image":"pizza.png"
+    },
+     {
+        "id":3,
+        "name":"Pasta Special",
+        "price":"$23.00",
+        "image":"pasta.jpg"
+    },
+     {
+        "id":4,
+        "name":"Special Masala",
+        "price":"$20.00",
+        "image":"special masala.jpg"
+    },
+     {
+        "id":5,
+        "name":"French Fries",
+        "price":"$15.00",
+        "image":"french fries.jpg"
+    },
+     {
+        "id":6,
+        "name":"Masala Chowmin",
+        "price":"$22.00",
+        "image":"chowmin.jpg"
+    },
+     {
+        "id":7,
+        "name":"Momos Special",
+        "price":"$30.00",
+        "image":"momos.jpg"
+    },
+     {
+        "id":8,
+        "name":"Special Spring Roll",
+        "price":"$18.00",
+        "image":"spring roll.jpg"
+    }
+]
